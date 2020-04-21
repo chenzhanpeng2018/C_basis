@@ -31,4 +31,5 @@ int main()
   	S(n,m); 
 	getchar();
 	return 0; 	
+	
 } 
